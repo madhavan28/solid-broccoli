@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-03T22:28:08 IST" name="Suite" finished-at="2024-10-03T22:28:29 IST" duration-ms="20944">
+    <groups>
+    </groups>
+    <test started-at="2024-10-03T22:28:08 IST" name="Test" finished-at="2024-10-03T22:28:29 IST" duration-ms="20944">
+      <class name="Grocery.Essentials.GroceryOrignial">
+        <test-method signature="grocery()[pri:0, instance:Grocery.Essentials.GroceryOrignial@8462f31]" started-at="2024-10-03T22:28:08 IST" name="grocery" finished-at="2024-10-03T22:28:27 IST" duration-ms="19568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grocery -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:Grocery.Essentials.GroceryOrignial@8462f31]" started-at="2024-10-03T22:28:27 IST" name="closebrowser" finished-at="2024-10-03T22:28:29 IST" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Grocery.Essentials.GroceryOrignial -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
